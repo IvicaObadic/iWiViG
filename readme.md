@@ -1,6 +1,6 @@
 # i-WiViG: Interpretable Window Vision GNN
 
-This repository contains the implementation of the **i-WiViG** model.
+This repository contains the implementation of the **i-WiViG** model from the [i-WiViG: Interpretable Window Vision GNN paper](https://arxiv.org/abs/2503.08321).
 
 ---
 
